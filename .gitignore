@@ -51,3 +51,4 @@ test.bat
 /data
 /default/scaffold
 public/scripts/extensions/third-party
+/certs
